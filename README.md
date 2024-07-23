@@ -26,4 +26,4 @@ Edit the DB connection detail in database/index.js. You can create your own .env
 
 ## How to fetch submitted data
 
-1. To fetch all contact data, run _https://nodejs-mysql-api-17bi.onrender.com/api/v1/contacts_ on your browser or Postman
+1. To fetch all contact data, run _https://nodejs-mysql-api-17bi.onrender.com/api/v1/contact_ on your browser or Postman
